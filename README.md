@@ -24,7 +24,11 @@ Git hooks are a secret breeding ground for _____.
 ______ helps me code until the wee hours of the morning.
 ```
 
-If you want line breaks in your questions, use a backslash (\) character. Two line breaks is two backslashes. Three line breaks is...you get the idea.
+If you want line breaks in your questions, use a backslash (\\) character. Two line breaks is two backslashes. Three line breaks is...you get the idea.
+
+```
+Step 1: _____\\Step 2: _____\\Step 3: Profit!
+```
 
 Now all you need to do is run `cahgen`:
 
